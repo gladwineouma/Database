@@ -9,7 +9,7 @@ salary VARCHAR (20) not NULL
  insert into trashion.employee_salary( employee_id, name, gender, bank, salary)
  values
  ('EM001', 'Judy', 'f', 'KCB', '100,000'),
- ('EM002', 'Julius', 'male', 'DTD', '150,000'),
+ ('EM002', 'Julius', 'male', 'DTD', '150,000')
  ('EM003', 'Julio', 'male', 'Barclays', '50,000'),
  ('EM004', 'Hope', 'f', 'Equity', '80,000'),
  ('EM005', 'Winnie', 'f', 'COOP', '200,000');
